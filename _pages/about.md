@@ -21,6 +21,6 @@ Nanjing, Jiangsu 210023, China
 
 Research Interests
 ======
-Wireless sensor networks, wireless networks, network measurement.
+Wireless sensor networks, wireless networks.
 
 
