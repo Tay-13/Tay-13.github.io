@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqian Liu (刘嘉倩)"
+title: "Jiaqian Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
