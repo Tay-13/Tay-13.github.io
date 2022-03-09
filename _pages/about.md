@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqian Liu"
+title: "Jiaqian Liu (刘嘉倩)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I
+
 
 Contact
 ======
@@ -21,6 +21,6 @@ Nanjing, Jiangsu 210023, China
 
 Research Interests
 ======
-Wireless sensor networks, wireless networks.
+Traffic measurement, data stream, data sketch.
 
 
